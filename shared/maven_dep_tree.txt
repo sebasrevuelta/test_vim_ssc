@@ -1,0 +1,8 @@
+com.mycompany.app:my-app:jar:1.0-SNAPSHOT
++- com.auth0:java-jwt:jar:3.18.0:compile
+|  \- com.fasterxml.jackson.core:jackson-databind:jar:2.11.0:runtime
+|     +- com.fasterxml.jackson.core:jackson-annotations:jar:2.11.0:runtime
+|     \- com.fasterxml.jackson.core:jackson-core:jar:2.11.0:runtime
++- commons-codec:commons-codec:jar:1.10:compile
++- commons-io:commons-io:jar:2.0:compile
+\- mysql:mysql-connector-java:jar:5.1.26:compile
